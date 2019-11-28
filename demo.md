@@ -1,5 +1,11 @@
 ![Demo1](https://ear-conv-rec.github.io/demo-1.png)
 
+
+
+The session starts by the systems greets:
+
+> "Hello!  I'm glad to serve you! "
+
 ---
 
 ![Demo2](https://ear-conv-rec.github.io/demo-2.png)
