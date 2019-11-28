@@ -49,7 +49,7 @@ We have 2 demos on Yelp and LastFM, representing Enumerated Questions and Binary
 
 We have successfully presented the demo to one potential partner which raised great interest.
 
-Please check this link to have a first impression to this interesting application!
+Please check this [link](https://ear-conv-rec.github.io/demo/) to have a first impression to this interesting application!
 
 
 
