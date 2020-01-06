@@ -10,16 +10,6 @@ We have made our first step towards this research and published a paper in WSDM 
 
 
 
-# Paper and Poster
-
-[PDF-1](wsdm20-EARS.pdf) **Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems**
-Wenqiang Lei, Xiangnan He*, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan & Tat-Seng Chua
-WSDM 2020 (Full, Accept rate: 15%)   *Corresponding author
-
-
-
-[Poster-1](wsdm20-EARS-poster.pdf) We presented our WSDM2020 work at [SSNLP 2019](https://wing.comp.nus.edu.sg/~ssnlp/)
-
 
 
 # Source Code
@@ -49,3 +39,4 @@ Please check this [link](https://ear-conv-rec.github.io/demo/) to have a first i
 # Commercial Usage
 
 Coming soon ...
+
