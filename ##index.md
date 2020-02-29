@@ -16,6 +16,8 @@ We have made our first step towards this research and published a paper in WSDM 
 
 We are currently applying for a patent, and looking for a license to release it. Stay tuned for our update!
 
+[Update 28Feb. 2020] Our patent is approved! Code will be released in one month. (Yisong is currently trapped in US, his air plane is canceled dut to the COVID-19 epidemic 😣)
+
 
 
 # Datasets
