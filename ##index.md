@@ -1,14 +1,16 @@
 
 
-# Our vision
+# Basics
 
-Our vision is to let recommender systems embrace the conversational technologies to dynamically obtain user's preference, so as to increase user satisfacton on large online platforms.
+Our vision is to let recommender systems embrace the conversational technologies. Such system is able to dynamically obtain user's preference and make more accurate recommendations.
 
-We have made our first step towards this research and published a paper in WSDM 2020.
+We have published one work in WSDM'2020. 
 
-**Please stay tuned for our following publications!**
+Paper: Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems. DOI: https://dl.acm.org/doi/pdf/10.1145/3336191.3371769
 
+Slides: https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf
 
+Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
 
 
