@@ -16,17 +16,15 @@ Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
 # Source Code
 
-We are currently applying for a patent, and looking for a license to release it. Stay tuned for our update!
+~~We are currently applying for a patent, and looking for a license to release it. Stay tuned for our update!~~
 
-[Update 28Feb. 2020] Our patent is approved! Code will be released in one month. (Yisong is currently trapped in US, his air plane is canceled dut to the COVID-19 epidemic 😣)
+~~[Update 28Feb. 2020] Our patent is approved! Code will be released in one month. (Yisong is currently trapped in US, his air plane is canceled dut to the COVID-19 epidemic 😣)~~
+
+[Update 8th April 2020] 🎉 Yisong has managed to document our code up! We now release our Codes, User Manual to our EAR System and datasets. This page contains everything: 
+
+[link](https://ear-conv-rec.github.io/manual/)
 
 
-
-# Datasets
-
-We adapt two classic datasets: Yelp and LastFM, and hand-curate 600+ attributes suitable for the conversational scenario.
-
-The datasets will be released soon. Stay tuned for our update!
 
 
 
