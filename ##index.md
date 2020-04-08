@@ -12,7 +12,7 @@ Slides: https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf
 
 Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
-[**New!🎉**] Codes, User Manual and Dataset
+[**New!🎉**] Codes, User Manual and Dataset: https://ear-conv-rec.github.io/manual.html
 
 
 
@@ -24,7 +24,7 @@ Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
 [Update 8th April 2020] 🎉 Yisong has managed to document our code up! We now release our Codes, User Manual to our EAR System and datasets. This page contains everything: 
 
-[link](https://ear-conv-rec.github.io/manual/)
+https://ear-conv-rec.github.io/manual.html
 
 
 
