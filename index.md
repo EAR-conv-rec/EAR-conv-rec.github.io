@@ -20,7 +20,7 @@ Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
 
 
-# Source Code
+# Updates
 
 ~~We are currently applying for a patent, and looking for a license to release it. Stay tuned for our update!~~
 
