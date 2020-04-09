@@ -53,7 +53,7 @@ Note: Due to different settings in Yelp (enumerated questions) and LastFM (binar
 - First Download our code:
 
 ```
-wget https://github.com/YisongMiao/yisong-website/raw/gh-pages/publications/EAR.zip
+wget https://yisong.me/publications/EAR.zip
 ```
 
 - Anaconda3 packages (https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
