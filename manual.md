@@ -236,7 +236,7 @@ We have a user-friendly interface, you only need to change the parameter below i
 cd ~/EAR/yelp/lib/user-simulator
 
 # Training
-CUDA_VISIBLE_DEVICES=1 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0.7 -strategy maxent -startFrom 0 -endAt 20000 -eval 0 -initeval 0 -trick 0 -mini 0 -alwaysupdate 0 -upcount 0 -upreg 0.001 -code stable -mask 0 -purpose train -mod ear
+CUDA_VISIBLE_DEVICES=1 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0.7 -strategy maxent -startFrom 0 -endAt 20000 -eval 0 -initeval 0 -trick 0 -mini 1 -alwaysupdate 1 -upcount 1 -upreg 0.001 -code stable -mask 0 -purpose train -mod ear
 
 # Evaluation
 CUDA_VISIBLE_DEVICES=2 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0 -strategy maxent -startFrom 0 -endAt 20000 -eval 1 -initeval 0 -trick 0 -mini 1 -alwaysupdate 1 -upcount 4 -upreg 0.001 -code stable -mask 0 -purpose train -mod ear
@@ -316,7 +316,7 @@ The training and Evaluation of this model can also be done following a simple `m
 
 ```bash
 # Training
-CUDA_VISIBLE_DEVICES=1 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0 -strategy maxent -startFrom 0 -endAt 20000 -eval 0 -initeval 0 -trick 0 -mini 0 -alwaysupdate 0 -upcount 0 -upreg 0.001 -code stable -mask 0 -purpose train -mod crm
+CUDA_VISIBLE_DEVICES=1 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0.7 -strategy maxent -startFrom 0 -endAt 20000 -eval 0 -initeval 0 -trick 0 -mini 0 -alwaysupdate 0 -upcount 0 -upreg 0.001 -code stable -mask 0 -purpose train -mod crm
 
 # Evaluation
 CUDA_VISIBLE_DEVICES=0 python run.py -mt 15 -playby policy -optim SGD -lr 0.001 -fmCommand 8 -upoptim SGD  -decay 0 -TopKTaxo 3 -gamma 0 -strategy maxent -startFrom 0 -endAt 20000 -eval 1 -initeval 0 -trick 0 -mini 1 -alwaysupdate 1 -upcount 4 -upreg 0.001 -code stable -mask 0 -purpose train -mod crm
