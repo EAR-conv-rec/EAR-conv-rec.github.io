@@ -10,9 +10,7 @@ Wish you find it helpful! 😛
 
 
 
-
-
-Please cite our paper if you use our codes or dataset.
+Please kindly cite our paper if you use our codes or dataset.
 
 ```
 @inproceedings{lei2020estimation,
@@ -26,13 +24,25 @@ Please cite our paper if you use our codes or dataset.
 
 ---
 
+Shortcuts:
+
+Code: 
+
+```
+wget https://yisong.me/publications/EAR.zip
+```
+
+Dataset:
+
+```
+https://drive.google.com/open?id=13WcWe9JthbiSjcGeCWSTB6Ir7O6riiYy
+```
+
 
 
 **Table of Content:**
 
 [TOC]
-
-
 
 ## 1. System Overview
 
