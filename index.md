@@ -20,6 +20,22 @@ Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
 
 
+Shortcuts:
+
+Code: 
+
+```
+wget https://yisong.me/publications/EAR.zip
+```
+
+Dataset:
+
+```
+https://drive.google.com/open?id=13WcWe9JthbiSjcGeCWSTB6Ir7O6riiYy
+```
+
+
+
 # Updates
 
 ~~We are currently applying for a patent, and looking for a license to release it. Stay tuned for our update!~~
