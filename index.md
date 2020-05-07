@@ -16,11 +16,17 @@ Slides: https://ear-conv-rec.github.io/EAR-slides-wsdm.pdf
 
 Poster: https://ear-conv-rec.github.io/EAR-poster-wsdm.pdf
 
-[**New!🎉**] Beta Version of Codes, User Manual and Dataset: https://ear-conv-rec.github.io/manual.html
 
 
 
-Shortcuts:
+
+**Shortcuts:**
+
+Manual (**READ ME!**):
+
+```
+https://ear-conv-rec.github.io/manual.html
+```
 
 Code: 
 
